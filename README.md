@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rohanraj1095.github.io](https://rohanraj1095.github.io)
 
-- 📝 I regularly write articles on [https://technical-fields.blogspot.com](https://technical-fields.blogspot.com)
+- 📝 I regularly write articles on [https://cybersecureark.blogspot.com](https://technical-fields.blogspot.com)
 
 - 📫 How to reach me **rohanraj12149@gmail.com**
 
