@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rohanraj12149@gmail.com**
 
-- 📄 Know about my experiences [https://rohanraj1095.github.io](https://rohanraj1095.github.io/portfolio)
+- 📄 Know about my experiences [https://rohanraj1095.github.io/portfolio](https://rohanraj1095.github.io/portfolio)
 
 - ⚡ Fun fact **Nobody Can Stop A Beast, Who Is Hungry For A Better Life.**
 
