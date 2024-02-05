@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/@Rohanraj1095" target="blank"><img src="https://img.shields.io/twitter/follow/@Rohanraj1095?logo=twitter&style=for-the-badge" alt="@Rohanraj1095" /></a> </p>
 
-- 🌱 I’m currently learning **CyberSecurity And Ethical Hacking**
-
 - 📫 How to reach me **rohanraj12149@gmail.com**
 
 - 📄 Know about my experiences [https://rohanraj1095.github.io/portfolio](https://rohanraj1095.github.io/portfolio)
