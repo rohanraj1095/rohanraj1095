@@ -19,20 +19,30 @@ jobs:
 
       - name: Fetch stats card
         continue-on-error: true
-        run: curl -sf "https://githubreadmestatsfast.vercel.app/api?username=rohanraj1095&show_icons=true&theme=tokyonight&hide_border=true" -o assets/stats.svg
+        run: curl -sfL -A "Mozilla/5.0 (compatible; GitHubActions/1.0)" "https://githubreadmestatsfast.vercel.app/api?username=rohanraj1095&show_icons=true&theme=tokyonight&hide_border=true" -o assets/stats.svg
 
       - name: Fetch top languages card
         continue-on-error: true
-        run: curl -sf "https://githubreadmestatsfast.vercel.app/api/top-langs/?username=rohanraj1095&layout=compact&theme=tokyonight&hide_border=true" -o assets/top-langs.svg
+        run: curl -sfL -A "Mozilla/5.0 (compatible; GitHubActions/1.0)" "https://githubreadmestatsfast.vercel.app/api/top-langs/?username=rohanraj1095&layout=compact&theme=tokyonight&hide_border=true" -o assets/top-langs.svg
 
       - name: Fetch activity graph
         continue-on-error: true
-        run: curl -sf "https://github-readme-activity-graph.vercel.app/graph?username=rohanraj1095&theme=tokyo-night&hide_border=true" -o assets/activity-graph.svg
+        run: curl -sfL -A "Mozilla/5.0 (compatible; GitHubActions/1.0)" "https://github-readme-activity-graph.vercel.app/graph?username=rohanraj1095&theme=tokyo-night&hide_border=true" -o assets/activity-graph.svg
+
+      - name: Show what was actually fetched
+        if: always()
+        run: |
+          echo "--- assets folder contents ---"
+          ls -la assets/ || echo "assets folder is empty or missing"
+          echo "--- first line of each file (sanity check it's real SVG, not an error page) ---"
+          for f in assets/*.svg; do
+            [ -f "$f" ] && echo "$f:" && head -c 200 "$f" && echo
+          done
 
       - name: Commit and push if changed
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/*.svg
+          git add -A assets/
           git diff --staged --quiet || (git commit -m "Update profile cards" && git push)
