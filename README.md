@@ -1,70 +1,105 @@
-<h1 align="center">Hi there, I'm Rohan Raj 👋</h1>
-<h3 align="center">A passionate Software Enthusiast from India</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohanraj1095&label=Profile%20views&color=0e75b6&style=flat" alt="rohanraj1095 profile views" />
-  <a href="https://twitter.com/Rohanraj1095" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Rohanraj1095?logo=twitter&style=flat" alt="Twitter follow" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Rohan%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Enthusiast%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rohanraj1095" alt="rohanraj1095 trophies" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rohan+%F0%9F%91%8B;Software+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+turn+ideas+into+code;Always+learning%2C+always+building" alt="Typing SVG" />
+</a>
 
----
+<img src="https://komarev.com/ghpvc/?username=rohanraj1095&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+<a href="https://twitter.com/Rohanraj1095"><img src="https://img.shields.io/twitter/follow/Rohanraj1095?style=for-the-badge&logo=twitter&color=1DA1F2&logoColor=white" alt="twitter"/></a>
+<a href="https://linkedin.com/in/rohan-raj-4989041b1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 
-### 🚀 About Me
-- 🔭 Building projects and sharpening my skills as a software developer
-- 🌱 Currently exploring new tools and frameworks across web development and programming
-- 💼 Portfolio: [rohanraj1095.github.io/portfolio](https://rohanraj1095.github.io/portfolio)
-- 📫 Reach me at **rohanraj12149@gmail.com**
-- ⚡ Fun fact: *"Nobody can stop a beast who is hungry for a better life."*
+</div>
 
----
+<br/>
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/Rohanraj1095" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/rohan-raj-4989041b1" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/r.o.h.a.n_r.a.j" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+## 🧭 About Me
 
----
+```yaml
+name: Rohan Raj
+location: India
+role: Software Enthusiast
+currently_building: "→ fill in your latest project here"
+currently_learning: "→ fill in what you're exploring right now"
+portfolio: rohanraj1095.github.io/portfolio
+contact: rohanraj12149@gmail.com
+motto: "Nobody can stop a beast who is hungry for a better life."
+```
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-</p>
+<br/>
 
----
+## 🛠️ Tech Stack
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanraj1095&show_icons=true&locale=en&theme=default" alt="rohanraj1095 stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanraj1095&show_icons=true&locale=en&layout=compact" alt="rohanraj1095 top languages" height="165"/>
-</p>
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanraj1095" alt="rohanraj1095 streak stats" />
-</p>
+**Web**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+**Data & Tools**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rohanraj1095&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanraj1095&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanraj1095&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanraj1095&theme=tokyo-night&hide_border=true" alt="activity graph" width="95%"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/rohanraj1095/rohanraj1095/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="95%"/>
+</div>
+
+> ⚙️ The snake animation needs a one-time GitHub Actions setup — see the note below.
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rohanraj1095&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+</div>
+
+<br/>
+
+## 🌐 Connect
+
+<div align="center">
+<a href="https://twitter.com/Rohanraj1095"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rohan-raj-4989041b1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/r.o.h.a.n_r.a.j"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:rohanraj12149@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=100&section=footer" width="100%"/>
