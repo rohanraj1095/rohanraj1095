@@ -111,8 +111,8 @@ A modular backend following the Controller-Service-Repository pattern, with JWT 
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=rohanraj1095&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohanraj1095&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://githubreadmestatsfast.vercel.app/api?username=rohanraj1095&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=rohanraj1095&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
@@ -130,6 +130,7 @@ A modular backend following the Controller-Service-Repository pattern, with JWT 
 <div align="center">
 <img src="https://raw.githubusercontent.com/rohanraj1095/rohanraj1095/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="95%"/>
 </div>
+
 
 
 <br/>
