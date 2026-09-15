@@ -14,33 +14,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Create assets folder
-        run: mkdir -p assets
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=rohanraj1095&show_icons=true&theme=tokyonight&hide_border=true
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Fetch stats card
-        continue-on-error: true
-        run: curl -sfL -A "Mozilla/5.0 (compatible; GitHubActions/1.0)" "https://githubreadmestatsfast.vercel.app/api?username=rohanraj1095&show_icons=true&theme=tokyonight&hide_border=true" -o assets/stats.svg
-
-      - name: Fetch top languages card
-        continue-on-error: true
-        run: curl -sfL -A "Mozilla/5.0 (compatible; GitHubActions/1.0)" "https://githubreadmestatsfast.vercel.app/api/top-langs/?username=rohanraj1095&layout=compact&theme=tokyonight&hide_border=true" -o assets/top-langs.svg
-
-      - name: Fetch activity graph
-        continue-on-error: true
-        run: curl -sfL -A "Mozilla/5.0 (compatible; GitHubActions/1.0)" "https://github-readme-activity-graph.vercel.app/graph?username=rohanraj1095&theme=tokyo-night&hide_border=true" -o assets/activity-graph.svg
-
-      - name: Show what was actually fetched
-        if: always()
-        run: |
-          echo "--- assets folder contents ---"
-          ls -la assets/ || echo "assets folder is empty or missing"
-          echo "--- first line of each file (sanity check it's real SVG, not an error page) ---"
-          for f in assets/*.svg; do
-            [ -f "$f" ] && echo "$f:" && head -c 200 "$f" && echo
-          done
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=rohanraj1095&layout=compact&theme=tokyonight&hide_border=true
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
-        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
