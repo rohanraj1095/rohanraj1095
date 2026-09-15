@@ -119,10 +119,6 @@ A modular backend following the Controller-Service-Repository pattern, with JWT 
 <img src="https://streak-stats.demolab.com/?user=rohanraj1095&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/rohanraj1095/rohanraj1095/main/assets/activity-graph.svg" alt="activity graph" width="95%"/>
-</div>
-
 <br/>
 
 ## 🐍 Contribution Snake
@@ -130,6 +126,7 @@ A modular backend following the Controller-Service-Repository pattern, with JWT 
 <div align="center">
 <img src="https://raw.githubusercontent.com/rohanraj1095/rohanraj1095/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="95%"/>
 </div>
+
 
 <br/>
 
