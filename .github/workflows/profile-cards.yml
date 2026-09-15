@@ -18,15 +18,19 @@ jobs:
         run: mkdir -p assets
 
       - name: Fetch stats card
-        run: curl -sf "https://github-readme-stats.vercel.app/api?username=rohanraj1095&show_icons=true&theme=tokyonight&hide_border=true" -o assets/stats.svg
+        continue-on-error: true
+        run: curl -sf "https://githubreadmestatsfast.vercel.app/api?username=rohanraj1095&show_icons=true&theme=tokyonight&hide_border=true" -o assets/stats.svg
 
       - name: Fetch top languages card
-        run: curl -sf "https://github-readme-stats.vercel.app/api/top-langs/?username=rohanraj1095&layout=compact&theme=tokyonight&hide_border=true" -o assets/top-langs.svg
+        continue-on-error: true
+        run: curl -sf "https://githubreadmestatsfast.vercel.app/api/top-langs/?username=rohanraj1095&layout=compact&theme=tokyonight&hide_border=true" -o assets/top-langs.svg
 
       - name: Fetch activity graph
+        continue-on-error: true
         run: curl -sf "https://github-readme-activity-graph.vercel.app/graph?username=rohanraj1095&theme=tokyo-night&hide_border=true" -o assets/activity-graph.svg
 
       - name: Commit and push if changed
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
