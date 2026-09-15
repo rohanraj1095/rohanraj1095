@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=rohanraj1095&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 <a href="https://linkedin.com/in/rohan-raj-4989041b1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://rohanraj1095.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
+<a href="https://rohanraj1095.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
 
 </div>
 
@@ -28,7 +28,7 @@ focus:
   - Database query optimization & caching strategies
   - Cloud deployment (AWS, Docker, CI/CD)
 currently_building: "OwlSync — Smart Expense Analytics Platform"
-portfolio: rohanraj1095.github.io/portfolio
+portfolio: rohanraj1095.onrender.com
 contact: rohanraj1095@gmail.com
 motto: "Nobody can stop a beast who is hungry for a better life."
 ```
@@ -111,12 +111,12 @@ A modular backend following the Controller-Service-Repository pattern, with JWT 
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rohanraj1095&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanraj1095&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=rohanraj1095&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohanraj1095&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanraj1095&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=rohanraj1095&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 <div align="center">
@@ -145,7 +145,7 @@ A modular backend following the Controller-Service-Repository pattern, with JWT 
 <div align="center">
 <a href="https://linkedin.com/in/rohan-raj-4989041b1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rohanraj1095@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://rohanraj1095.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://rohanraj1095.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=100&section=footer" width="100%"/>
