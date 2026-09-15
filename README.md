@@ -2,13 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Rohan%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20System%20Design&descAlignY=55&descSize=18" width="100%"/>
 
+<br/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Rohan+%F0%9F%91%8B;Backend+Engineer+%40+Tech+Mahindra;I+build+scalable+APIs+%26+distributed+systems;Node.js+%7C+Express+%7C+MongoDB+%7C+Redis+%7C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&height=40&lines=Hi+there%2C+I%27m+Rohan+%F0%9F%91%8B;Backend+Engineer+%40+Tech+Mahindra;I+build+scalable+APIs+%26+distributed+systems;Node.js+%7C+Express+%7C+MongoDB+%7C+Redis+%7C+AWS" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=rohanraj1095&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-<a href="https://linkedin.com/in/rohan-raj-4989041b1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://rohanraj1095.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rohanraj1095&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" height="28"/>
+<a href="https://linkedin.com/in/rohan-raj-4989041b1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="28"/></a>
+<a href="https://rohanraj1095.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" height="28"/></a>
 
 </div>
 
@@ -29,7 +33,6 @@ focus:
   - Cloud deployment (AWS, Docker, CI/CD)
 currently_building: "OwlSync — Smart Expense Analytics Platform"
 portfolio: rohanraj1095.onrender.com
-contact: rohanraj1095@gmail.com
 motto: "Nobody can stop a beast who is hungry for a better life."
 ```
 
@@ -126,6 +129,7 @@ A modular backend following the Controller-Service-Repository pattern, with JWT 
 <div align="center">
 <img src="https://raw.githubusercontent.com/rohanraj1095/rohanraj1095/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="95%"/>
 </div>
+
 
 
 <br/>
