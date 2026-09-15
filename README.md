@@ -20,9 +20,9 @@
 name: Rohan Raj
 location: India
 role: Software Enthusiast
-currently_building: "→ fill in your latest project here"
-currently_learning: "→ fill in what you're exploring right now"
-portfolio: rohanraj1095.github.io/portfolio
+currently_building: "→ OwlSync"
+currently_learning: "→ Microservices"
+portfolio: https://rohanraj1095.onrender.com/
 contact: rohanraj12149@gmail.com
 motto: "Nobody can stop a beast who is hungry for a better life."
 ```
